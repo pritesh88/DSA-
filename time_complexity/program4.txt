@@ -1,0 +1,5 @@
+Q.4.Whcih of the following are equivalent to O(N)? Why? 
+   a) O(N+P), where P<N/9  ---> O(n)
+   b) 0(9N-k)              -->  O(n)
+   c) O(N+ 8logN)          ---> O(n)
+   d) O(N+M²)              -->  Ans
